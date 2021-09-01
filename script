@@ -1,6 +1,6 @@
 # Please simply make any necessary changes depending on the number of strains/sequences you are analyzing.
 # I will make into a generalized function eventually ;)
-# -WC 3/10/12  (happy birthday to me)
+# -SC 3/10/12  (happy birthday to me)
 #---------------------------------------------------------------------------------------------------
 
 #def PairwiseDifSNPs(file, num_seqs)
